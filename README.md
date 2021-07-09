@@ -17,7 +17,7 @@ In this project the following ML techniques have been explored:
 It was found that the BERTweet with a softmax layer with a modified input architecture(please refer to the project report for the implementation details) performs the best and achieves an F1 score of 0.835 and a rank of 55 out 345 on the online platform hosting the intra class competition.
 
 
-For details of the implementation details and the models please refer to the project report:Project_Report.pdf. 
+For details of the implementation details and the models please refer to the project report included among the files:*[Project Report](https://github.com/parikshitd19/Is-it-a-Rumour/blob/f7ce808b95bc28395834c6a738f4dfbc6d9ed9a2/Project_Report.pdf)*. 
 
 
 
